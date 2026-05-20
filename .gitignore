@@ -216,3 +216,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# =========================
+# Node / React
+# =========================
+node_modules/
+
+# React build folders
+build/
+dist/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# =========================
+# Security / Secrets
+# =========================
+.env
+vault.db
+*.pem
+*.key
+secret.key
