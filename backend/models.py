@@ -1,0 +1,1 @@
+# Purpose: Defines database models
